@@ -159,7 +159,7 @@ java -cp out Main
 
 ## 📐 UML Diagram
 
-The UML class diagram is included in the submission ZIP (`تصميم و عماره .drawio.png`).
+The UML class diagram is included in the submission ZIP (`UML Diagram.png`).
 
 ---
 
